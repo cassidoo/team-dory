@@ -1,4 +1,4 @@
-team-dory
+Team Dory
 =========
 
-Finance game for kids.
+Finance game for kids.  In space.
