@@ -1,4 +1,4 @@
 Team Dory
 =========
 
-Finance game for kids.  In space.
+Finance game for kids.  In space. (lasers not included)
